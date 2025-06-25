@@ -51,11 +51,9 @@ py wsgi.py # Windows
 python3 wsgi.py # Linux/Mac
 ```
 
-## Web Preview (500px)
+## Web Preview
 
-Berikut adalah beberapa tampilan utama aplikasi Smartendance (lebar 500px, center):
-
-<p align="center">
+<div align="center">
   <b>Login Page</b><br>
   <i>Halaman masuk untuk semua user.</i><br>
   <img src="https://drive.google.com/uc?id=171-gzxO71Fu5Z7NxshCjb8kevy6wnMID" width="500"/><br><br>
@@ -88,4 +86,4 @@ Berikut adalah beberapa tampilan utama aplikasi Smartendance (lebar 500px, cente
 <i>Menu utama mahasiswa untuk melihat kehadiran dan jadwal.</i><br>
 <img src="https://drive.google.com/uc?id=1ZD-Cp0W5i273oTUlrO4BKdMrwN7II-jl" width="500"/>
 
-</p>
+</div>
